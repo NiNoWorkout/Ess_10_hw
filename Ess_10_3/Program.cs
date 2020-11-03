@@ -10,6 +10,10 @@ namespace Ess_10_3
     {
         static void Main(string[] args)
         {
+
+
+            // Delay.
+            Console.ReadKey();
         }
     }
 }
