@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ess_10_2
+namespace Ess_10_4
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
+
 
             // Delay.
             Console.ReadKey();
